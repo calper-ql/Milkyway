@@ -42,8 +42,8 @@ public:
     optix::Context context;
     optix::Transform transform;
 
-    float fork_min = 0.15;
-    float fork_max = 0.2;
+    float fork_min = 0.08;
+    float fork_max = 0.1;
 	unsigned target_depth;
 
     std::future<int> dyn_val;
