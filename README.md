@@ -1,6 +1,6 @@
 # Milkyway
 
-This is a simulation/game project that I've been working on for a while. Eventually I hope to deploy it on a VR system without using any other game engines. It depends on two of my other projects:
+This is a simulation/game project that I've been working on for a while. I hope to eventually deploy it on a VR system without using any other game engines. It depends on two of my other projects:
 
 * [HiveEngine](https://github.com/calper-ql/HiveEngine)
 * [NGEN](https://github.com/calper-ql/NGEN)
