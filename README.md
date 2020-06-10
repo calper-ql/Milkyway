@@ -1,4 +1,4 @@
-# MilkywayVR
+# Milkyway
 
 This is a simulation/game project that I've been working on for a while. Eventually I hope to deploy it on a VR system without using any other game engines. It depens on two of my other projects:
 
